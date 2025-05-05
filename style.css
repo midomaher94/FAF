@@ -544,16 +544,7 @@
                margin-top: 30px;
            }
 
-           .service {
-               background: #ffffff04;
-               padding: 30px;
-               text-align: center;
-               box-shadow: 0 4px 8px rgba(88, 88, 88, 0.329);
-               width: 22%;
-               transition: transform 0.3s, box-shadow 0.3s;
-               border-radius: 10px;
-           }
-
+           
            .service:hover {
                transform: scale(1.05);
                box-shadow: 0 4px 15px rgba(0, 255, 255, 0.6);
